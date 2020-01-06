@@ -9,8 +9,8 @@
 
 
 echo "Please Use:"
-echo "[0]:Source"
-echo "[1]:Core"
+echo "[0]:Core"
+echo "[1]:mdb"
 echo "[2]:Dir"
 echo "[3]:PHP"
 echo "[4]:ASP/x"
@@ -23,14 +23,14 @@ read search
 # 根据读取所选内容加载字典
 name="wait"
 if [ $search == 0 ];then
-	name="Source"
+	name="Core"
 	rm db/dicc.txt
 	cp db/dicc.txt.src db/dicc.txt
 
 elif [ $search == 1 ];then
-	name="Core"
+	name="mdb"
 	rm db/dicc.txt
-	cp db/dicc.txt.core db/dicc.txt
+	cp db/dicc.txt.mdb db/dicc.txt
 
 elif [ $search == 2 ];then
 	name="Dir"
