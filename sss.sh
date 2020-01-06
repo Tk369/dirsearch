@@ -15,7 +15,6 @@ echo "[2]:Dir"
 echo "[3]:PHP"
 echo "[4]:ASP/x"
 echo "[5]:JSP"
-echo "[6]:ALL"
 echo "waiting input:"
 read search
 
@@ -51,11 +50,6 @@ elif [ $search == 5 ];then
 	name="JSP"
 	rm db/dicc.txt
 	cp db/dicc.txt.jsp db/dicc.txt
-
-elif [ $search == 6 ];then
-	name="ALL"
-	rm db/dicc.txt
-	cp db/dicc.txt.all db/dicc.txt
 
 else
 	echo "Input "Error!
