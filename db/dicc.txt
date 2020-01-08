@@ -1,3 +1,9 @@
+/systemc_sitep/index.php/amaininit/index
+/systemc_sitep/index.php/amaininit
+/systemc_sitep/index.php
+/systemc_sitep/
+/_layouts/15/Picker.aspx
+/ThinkPHP/LICENSE.txt
 /include/config.inc.php
 /admin/assignment/index
 /admin/assignment/view
