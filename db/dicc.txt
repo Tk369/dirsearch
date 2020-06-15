@@ -82,6 +82,7 @@
 /spring-security-rest/api/swagger-ui.html
 /spring-security-oauth-resource/swagger-ui.html
 /mappings
+/bea_wls_deployment_internal/DeploymentService
 /actuator/mappings
 /metrics
 /actuator/metrics
