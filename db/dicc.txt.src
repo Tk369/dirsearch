@@ -90,6 +90,7 @@
 /data/config.inc.php
 /e/class/config.php
 /api-docs
+/+CSCOT+translation-table?type=mst&textdomain=/%2bCSCOE%2b/portalinc.lua&default-language&lang=../
 /v2/api-docs
 /swagger-ui.html
 /api.html
