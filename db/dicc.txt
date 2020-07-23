@@ -100,6 +100,7 @@
 /spring-security-oauth-resource/swagger-ui.html
 /mappings
 /bea_wls_deployment_internal/DeploymentService
+/+CSCOT+translation-table?type=mst&textdomain=/%2bCSCOE%2b/portalinc.lua&default-language&lang=../
 /actuator/mappings
 /metrics
 /actuator/metrics
