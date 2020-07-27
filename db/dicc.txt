@@ -15,6 +15,7 @@
 /apidocs
 /swagger
 /v1/swagger.json
+/plugins/helloworld/chakan.jsp
 /systemc_sitep/index.php/amaininit/index
 /systemc_sitep/index.php/amaininit
 /systemc_sitep/index.php
@@ -34,6 +35,7 @@
 /admin/default/index
 /admin/menu/index
 /admin/menu/view
+
 /admin/menu/create
 /admin/menu/update
 /admin/menu/delete
