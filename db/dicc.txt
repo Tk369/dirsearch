@@ -1,4 +1,6 @@
 /REST/v1/swagger
+/API/process/checkPidStatus.php?pid=/../etc/passwd
+/API/process/checkPidStatus.php?pid=/../../etc/passwd
 /v2/apis/auth/_resource
 /v1/swagger-ui.html
 /swagger/index.html
