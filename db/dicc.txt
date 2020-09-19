@@ -3,6 +3,7 @@
 /API/process/checkPidStatus.php?pid=/../../etc/passwd
 /v2/apis/auth/_resource
 /v1/swagger-ui.html
+/module/appbuilder/assets/print.php
 /swagger/index.html
 /swagger/swagger-ui.html
 /tool/log/c.php?strip_slashes=system&host=id
