@@ -5,6 +5,7 @@
 /v1/swagger-ui.html
 /module/appbuilder/assets/print.php
 /swagger/index.html
+/wp-json/wp/v2/users
 /swagger/swagger-ui.html
 /tool/log/c.php?strip_slashes=system&host=id
 /swagger.json
