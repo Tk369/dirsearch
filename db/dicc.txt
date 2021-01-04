@@ -1,4 +1,5 @@
 /REST/v1/swagger
+/atlantis/login.php
 /API/process/checkPidStatus.php?pid=/../etc/passwd
 /API/process/checkPidStatus.php?pid=/../../etc/passwd
 /v2/apis/auth/_resource
