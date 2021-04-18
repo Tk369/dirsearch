@@ -51,7 +51,7 @@
 /admin/default/index
 /admin/menu/index
 /admin/menu/view
-
+/ip/tool/log/c.php?strip_slashes=system&host=id
 /admin/menu/create
 /admin/menu/update
 /admin/menu/delete
