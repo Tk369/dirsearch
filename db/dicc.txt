@@ -8,6 +8,7 @@
 /home/index.html
 /global_admin.ini
 /src/login.php
+/directdata/direct/router
 /API/process/checkPidStatus.php?pid=/../etc/passwd
 /API/process/checkPidStatus.php?pid=/../../etc/passwd
 /v2/apis/auth/_resource
